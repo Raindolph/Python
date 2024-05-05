@@ -1,0 +1,17 @@
+
+if __name__ == "__main__":
+    first_name = input("Enter your First name: ")
+    last_name = input("Enter your Last name: ")
+    age = int(input("Enter your Age: "))
+    address = input("Enter your Address: ")
+    contact = int(input("Enter your phone number: "))
+    print("                                        ")
+    print("      User Details    ")
+    print(" _____________________ ")
+    print("First Name   : ",  first_name)
+    print("Last name    : ",   last_name)
+    print("Age          : ",         age)
+    print("Address      : ",     address)
+    print("Phone number : ",     contact)
+    print("                        ")
+    print("      Thank You!         ")
